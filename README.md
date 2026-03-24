@@ -1,1 +1,3 @@
-Hotel Booking website using ai tool antigravity
+<h1> Hotel Booking website </h1>
+run
+npm run dev
